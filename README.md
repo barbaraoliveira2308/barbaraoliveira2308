@@ -9,7 +9,7 @@
 <h2>Bárbara Moreira</h2>
 
 <p>
-Frontend Engineer focused on <strong>scalable, accessible and maintainable software</strong>.
+software Engineer focused on <strong>scalable, accessible and maintainable software</strong>.
 <br>
 React • TypeScript • APIs • Cloud • Distributed Systems
 </p>
@@ -30,8 +30,6 @@ React • TypeScript • APIs • Cloud • Distributed Systems
 
 </div>
 
----
-
 <div align="center">
 
 ## ⚡ Expertise
@@ -46,8 +44,6 @@ React • TypeScript • APIs • Cloud • Distributed Systems
 
 </div>
 
----
-
 <div align="center">
 
 ## 🧩 Tech Stack
@@ -55,9 +51,6 @@ React • TypeScript • APIs • Cloud • Distributed Systems
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,tailwind,bootstrap,vite,jest,nodejs,java,spring,python,graphql,postgres,mongodb,docker,kubernetes,aws,git,gitlab&perline=11" />
 
 </div>
-
----
-
 <div align="center">
 
 ## 🔬 Engineering
@@ -77,18 +70,6 @@ with a focus on clean architecture, reusable systems and great user experiences.
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=barbaraoliveira2308&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraoliveira2308&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -100,8 +81,6 @@ with a focus on clean architecture, reusable systems and great user experiences.
 </picture>
 
 </div>
-
----
 
 <div align="center">
 
