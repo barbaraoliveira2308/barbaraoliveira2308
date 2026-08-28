@@ -89,7 +89,7 @@ with a focus on clean architecture, reusable systems and great user experiences.
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badgelinkedin.com/in/barbara-oliveira23?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
