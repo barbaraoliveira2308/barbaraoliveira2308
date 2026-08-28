@@ -4,15 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;%E2%8A%B9+Full+Stack+Developer+%E2%8A%B9;%E2%8A%B9+Building+%7C+Learning+%7C+Creating+%E2%8A%B9+" alt="Typing SVG" />
 </a>
 
-<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbaraoliveira2308&label=Profile%20views&color=ff00f6&style=flat" alt="Profile views" />
-</p>
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
