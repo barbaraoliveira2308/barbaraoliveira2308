@@ -6,7 +6,7 @@
 
 <br>
 
-<h2>Bárbara Moreira</h2>
+<h2>Bárbara Oliveira</h2>
 
 <p>
 software Engineer focused on <strong>scalable, accessible and maintainable software</strong>.
