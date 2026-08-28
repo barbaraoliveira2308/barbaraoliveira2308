@@ -9,7 +9,7 @@
 <h2>Bárbara Oliveira</h2>
 
 <p>
-software Engineer focused on <strong>scalable, accessible and maintainable software</strong>.
+Software Engineer focused on <strong>scalable, accessible and maintainable software</strong>.
 <br>
 React • TypeScript • APIs • Cloud • Distributed Systems
 </p>
