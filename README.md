@@ -88,9 +88,7 @@ with a focus on clean architecture, reusable systems and great user experiences.
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badgelinkedin.com/in/barbara-oliveira23?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/barbara-oliveira23"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <br><br>
 
