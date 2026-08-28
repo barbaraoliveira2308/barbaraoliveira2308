@@ -1,217 +1,120 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;%E2%8A%B9+Full+Stack+Developer+%E2%8A%B9;%E2%8A%B9+Building+%7C+Learning+%7C+Creating+%E2%8A%B9+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;%E2%8A%B9+Frontend+%26+Software+Engineer+%E2%8A%B9+;%E2%8A%B9+Building+Digital+Experiences+%E2%8A%B9" alt="Typing SVG">
 </a>
 
+<br>
 
+<h2>Bárbara Moreira</h2>
 
-## 👩‍💻 About Me
+<p>
+Frontend Engineer focused on <strong>scalable, accessible and maintainable software</strong>.
+<br>
+React • TypeScript • APIs • Cloud • Distributed Systems
+</p>
 
-I'm a **Full Stack Developer** passionate about building modern, scalable and user-focused applications.
+<br>
 
-My experience includes **frontend and backend development, REST APIs, GraphQL, cloud integrations, databases, containers and automation**. I enjoy working across the stack and continuously expanding my knowledge through real-world projects and new technologies.
+<img src="https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
-Currently, I'm focused on strengthening my expertise in **Java, Spring Boot, Python, React, TypeScript, APIs, AI and cloud technologies**.
+<br>
 
-```javascript
-const barbara = {
-  role: "Full Stack Developer",
-  focus: [
-    "Frontend Development",
-    "Backend Development",
-    "REST APIs",
-    "GraphQL",
-    "Cloud & Infrastructure",
-    "AI & Automation"
-  ],
-  currentlyLearning: [
-    "Advanced Java & Spring Boot",
-    "TypeScript",
-    "Python",
-    "Cloud & DevOps"
-  ],
-  mindset: "Build. Learn. Improve. Repeat."
-};
-```
-
----
-
-## 🛠️ My Stack
-
-### 💻 Languages
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+<img src="https://img.shields.io/badge/GRAPHQL-111111?style=for-the-badge&logo=graphql&logoColor=E10098"/>
+<img src="https://img.shields.io/badge/DOCKER-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/KUBERNETES-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 </div>
 
 ---
-
-### ⚛️ Frontend
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React Native"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="35" alt="Vite"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="Material UI"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="Sass"/>
-
-</div>
-
-**Technologies:** React · React Native · TypeScript · JavaScript · Vite · MUI · Ant Design · Tailwind CSS · SCSS · Responsive Design
-
----
-
-### ☕ Backend
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="Flask"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
-
-</div>
-
-**Technologies:** Java · Spring Boot · Python · Flask · Node.js · REST APIs · GraphQL · API Integrations
-
----
-
-### 🗄️ Databases
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase"/>
-
-</div>
-
-**Technologies:** PostgreSQL · MySQL · MongoDB · Firebase · SQL · NoSQL
-
----
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="Kubernetes"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35" alt="AWS"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
-
-</div>
-
-**Technologies:** Docker · Kubernetes · AWS · Amazon S3 · Git · GitHub · CI/CD · Containerization
-
----
-
-### 🤖 AI, Automation & APIs
-
-* AI & Prompt Engineering
-* AI Agents
-* Automation & Bots
-* REST API Development
-* GraphQL
-* API Integrations
-* Cloud Storage & S3
-* Backend Integrations
-
----
-
-## 🚀 What I Work With
-
-```text
-Frontend       → React · React Native · TypeScript · JavaScript
-Backend        → Java · Spring Boot · Python · Flask · Node.js
-Databases      → PostgreSQL · MySQL · MongoDB · Firebase
-APIs           → REST · GraphQL
-Cloud          → AWS · S3
-DevOps         → Docker · Kubernetes · CI/CD
-Tools          → Git · GitHub · Vite
-UI              → MUI · Ant Design · Tailwind CSS · SCSS
-AI              → AI Agents · Prompt Engineering · Automation
-```
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraoliveira2308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+## ⚡ Expertise
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraoliveira2308&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+
+`Frontend Architecture` · `Design Systems` · `Component Libraries`
+`REST & GraphQL` · `Microservices` · `Event-Driven Systems`
+`Cloud Native` · `CI/CD` · `Testing` · `Performance`
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+<div align="center">
+
+## 🧩 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,tailwind,bootstrap,vite,jest,nodejs,java,spring,python,graphql,postgres,mongodb,docker,kubernetes,aws,git,gitlab&perline=11" />
+
+</div>
+
+---
 
 <div align="center">
 
-<picture>
+## 🔬 Engineering
+
+<p>
+Building <strong>enterprise-scale applications</strong> in Agile environments,
+<br>
+with a focus on clean architecture, reusable systems and great user experiences.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge&logo=buffer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Event--Driven-111111?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-111111?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=barbaraoliveira2308&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraoliveira2308&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barbaraoliveira2308/barbaraoliveira2308/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barbaraoliveira2308/barbaraoliveira2308/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barbaraoliveira2308/barbaraoliveira2308/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barbaraoliveira2308/barbaraoliveira2308/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barbaraoliveira2308/barbaraoliveira2308/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-
-<div align="left">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/barbaraoliveira2308">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
-### ✨ "Always learning. Always building."
+<a href="https://github.com/barbaraoliveira2308">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Designing systems. Building experiences. Engineering with purpose.</sub>
 
 </div>
